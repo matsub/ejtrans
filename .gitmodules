@@ -1,0 +1,3 @@
+[submodule "EJDict"]
+	path = EJDict
+	url = https://github.com/kujirahand/EJDict.git
